@@ -58,23 +58,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JPPWBALH
 
 [Document2]
-DocumentPath=motor_crash_detection_pcb.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GXGUARTY
-
-[Document3]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTCAJISK
 
-[Document4]
+[Document3]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TTTFFNYX
 
-[Document5]
+[Document4]
 DocumentPath=SENSOR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONPDWGIH
 
-[Document6]
+[Document5]
 DocumentPath=BUZZER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYOIHBHP
 
-[Document7]
+[Document6]
 DocumentPath=GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOVNVRNG
 
-[Document8]
+[Document7]
 DocumentPath=LED_ALERT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,31 +159,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VHICYILJ
 
-[Document9]
-DocumentPath=motor_crash_detection_device_pcb.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
+[Document8]
 DocumentPath=SIM-LTE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
-AnnotateSuffix=
+AnnotateSuffix=_7
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -209,6 +175,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URKTOVFH
+
+[Document9]
+DocumentPath=BUTTON.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=_8
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HPDBJYKJ
+
+[Document10]
+DocumentPath=motor_crash_detection_device_pcb.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OQTKWMHY
 
 [Configuration1]
 Name=Sources
@@ -1078,23 +1078,23 @@ Type124=1
 Type125=1
 
 [ERC Connection Matrix]
-L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWWWNWNWNWN
-L3=NWEENEEEENEWNEEWN
-L4=NNENNNWEENNWNENWN
-L5=NNNNNNNNNNNNNNNNN
-L6=NNENNNNEENNWNENWN
-L7=NNEWNNWEENNWNENWN
-L8=NWEENEENEEENNEENN
-L9=NWEENEEEENEWNEEWW
-L10=NWNNNNNENNEWNNEWN
-L11=NNENNNNEEENWNENWN
-L12=WWWWNWWNWWWNWWWNN
-L13=NNNNNNNNNNNWNNNWW
-L14=NWEENEEEENEWNEEWW
-L15=NNENNNNEEENWNENWW
-L16=WWWWNWWNWWWNWWWNW
-L17=WNNNNNNNWNNNWWWWN
+L1=NNNNNNNNNNNWNNNWF
+L2=NNWNNNNWWWNWNWNWF
+L3=NWEENEEEENEWNEEWF
+L4=NNENNNWEENNWNENWF
+L5=NNNNNNNNNNNNNNNNF
+L6=NNENNNNEENNWNENWF
+L7=NNEWNNWEENNWNENWF
+L8=NWEENEENEEENNEENF
+L9=NWEENEEEENEWNEEWF
+L10=NWNNNNNENNEWNNEWF
+L11=NNENNNNEEENWNENWF
+L12=WWWWNWWNWWWNWWWNF
+L13=NNNNNNNNNNNWNNNWF
+L14=NWEENEEEENEWNEEWF
+L15=NNENNNNEEENWNENWF
+L16=WWWWNWWNWWWNWWWNF
+L17=FFFFFFFFFFFFFFFFF
 
 [Annotate]
 SortOrder=3

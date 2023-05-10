@@ -1,0 +1,316 @@
+Added Component: Designator=BUZZER(Header2)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=C1_1(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_2(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_8(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_1(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_2(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_8(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C3_1(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C3_2(Header2)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=C4_1(CN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C4_2(CAP-ALU-SMD-4.5x5x1.4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DCIN-12V(DC0)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=DIO1_2(DIO-SMD-123)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=ESP32(MODULE_ESP32_DEVKIT_V1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKIT-V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GPS(Header4)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=LED1_2(LED-GREEN-0805)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED2_2(LED-3MM-RED)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED_ALERT(LED-3MM-GREEN)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=MPU6050(JP8-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613008143121"; VariantName = "[No Variations]"
+Added Component: Designator=PIN_IN(Header2)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_4(SOT23-321)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R1_1(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R1_2(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R1_4(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R1_6(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R1_8(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R2_2(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R2_8(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R3_2(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R4_2(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R5_2(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R6_2(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=SIML(JP7-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613007143121"; VariantName = "[No Variations]"
+Added Component: Designator=SIMR(JP7-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613007143121"; VariantName = "[No Variations]"
+Added Component: Designator=SW1_1(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW1_8(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW2_8(SW1-DIP)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=U1_2(SOT223)
+Add component (AddParameter): Name = "Creator"; Value = "Nguyen Ba Bien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Website"; Value = "http://group3i.net"; VariantName = "[No Variations]"
+Added Component: Designator=U2_2(DIP4)
+Add component (AddParameter): Name = "Value"; Value = "PC817"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3VDC Pin=C1_8-1
+Added Pin To Net: NetName=+3.3VDC Pin=C2_2-2
+Added Pin To Net: NetName=+3.3VDC Pin=C2_8-1
+Added Pin To Net: NetName=+3.3VDC Pin=GPS-4
+Added Pin To Net: NetName=+3.3VDC Pin=MPU6050-1
+Added Pin To Net: NetName=+3.3VDC Pin=R1_1-1
+Added Pin To Net: NetName=+3.3VDC Pin=R2_2-2
+Added Pin To Net: NetName=+3.3VDC Pin=R5_2-2
+Added Pin To Net: NetName=+3.3VDC Pin=SW1_8-1
+Added Pin To Net: NetName=+3.3VDC Pin=SW2_8-1
+Added Pin To Net: NetName=+3.3VDC Pin=U1_2-2
+Added Net: Name=+3.3VDC
+Added Pin To Net: NetName=+5VDC Pin=BUZZER-1
+Added Pin To Net: NetName=+5VDC Pin=C1_2-2
+Added Pin To Net: NetName=+5VDC Pin=C2_1-2
+Added Pin To Net: NetName=+5VDC Pin=C3_1-2
+Added Pin To Net: NetName=+5VDC Pin=C4_1-2
+Added Pin To Net: NetName=+5VDC Pin=C4_2-1
+Added Pin To Net: NetName=+5VDC Pin=ESP32-30
+Added Pin To Net: NetName=+5VDC Pin=PIN_IN-1
+Added Pin To Net: NetName=+5VDC Pin=R1_2-1
+Added Pin To Net: NetName=+5VDC Pin=R1_6-2
+Added Pin To Net: NetName=+5VDC Pin=R3_2-2
+Added Pin To Net: NetName=+5VDC Pin=SIMR-7
+Added Pin To Net: NetName=+5VDC Pin=U1_2-3
+Added Net: Name=+5VDC
+Added Pin To Net: NetName=DCIN_12V Pin=C3_2-1
+Added Pin To Net: NetName=DCIN_12V Pin=DCIN-12V-1
+Added Pin To Net: NetName=DCIN_12V Pin=DIO1_2-1
+Added Net: Name=DCIN_12V
+Added Pin To Net: NetName=DCIN_GND Pin=C3_2-2
+Added Pin To Net: NetName=DCIN_GND Pin=DCIN-12V-2
+Added Pin To Net: NetName=DCIN_GND Pin=DCIN-12V-3
+Added Pin To Net: NetName=DCIN_GND Pin=U2_2-2
+Added Net: Name=DCIN_GND
+Added Pin To Net: NetName=ESP_RST Pin=C1_1-2
+Added Pin To Net: NetName=ESP_RST Pin=ESP32-16
+Added Pin To Net: NetName=ESP_RST Pin=R1_1-2
+Added Pin To Net: NetName=ESP_RST Pin=SW1_1-2
+Added Net: Name=ESP_RST
+Added Pin To Net: NetName=GND Pin=C1_1-1
+Added Pin To Net: NetName=GND Pin=C1_2-1
+Added Pin To Net: NetName=GND Pin=C2_1-1
+Added Pin To Net: NetName=GND Pin=C2_2-1
+Added Pin To Net: NetName=GND Pin=C3_1-1
+Added Pin To Net: NetName=GND Pin=C4_1-1
+Added Pin To Net: NetName=GND Pin=C4_2-2
+Added Pin To Net: NetName=GND Pin=ESP32-2
+Added Pin To Net: NetName=GND Pin=ESP32-29
+Added Pin To Net: NetName=GND Pin=GPS-3
+Added Pin To Net: NetName=GND Pin=LED1_2-2
+Added Pin To Net: NetName=GND Pin=LED2_2-2
+Added Pin To Net: NetName=GND Pin=MPU6050-2
+Added Pin To Net: NetName=GND Pin=PIN_IN-2
+Added Pin To Net: NetName=GND Pin=Q1_4-1
+Added Pin To Net: NetName=GND Pin=R1_8-2
+Added Pin To Net: NetName=GND Pin=R2_8-2
+Added Pin To Net: NetName=GND Pin=R4_2-2
+Added Pin To Net: NetName=GND Pin=SIMR-6
+Added Pin To Net: NetName=GND Pin=SW1_1-1
+Added Pin To Net: NetName=GND Pin=U1_2-1
+Added Pin To Net: NetName=GND Pin=U2_2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=GPS_RX Pin=ESP32-3
+Added Pin To Net: NetName=GPS_RX Pin=GPS-2
+Added Net: Name=GPS_RX
+Added Pin To Net: NetName=GPS_TX Pin=ESP32-4
+Added Pin To Net: NetName=GPS_TX Pin=GPS-1
+Added Net: Name=GPS_TX
+Added Pin To Net: NetName=M_SCL Pin=ESP32-14
+Added Pin To Net: NetName=M_SCL Pin=MPU6050-3
+Added Net: Name=M_SCL
+Added Pin To Net: NetName=M_SDA Pin=ESP32-11
+Added Pin To Net: NetName=M_SDA Pin=MPU6050-4
+Added Net: Name=M_SDA
+Added Pin To Net: NetName=NetBUZZER_2 Pin=BUZZER-2
+Added Pin To Net: NetName=NetBUZZER_2 Pin=Q1_4-2
+Added Net: Name=NetBUZZER_2
+Added Pin To Net: NetName=NetC1_8_2 Pin=C1_8-2
+Added Pin To Net: NetName=NetC1_8_2 Pin=ESP32-24
+Added Pin To Net: NetName=NetC1_8_2 Pin=R1_8-1
+Added Pin To Net: NetName=NetC1_8_2 Pin=SW1_8-2
+Added Net: Name=NetC1_8_2
+Added Pin To Net: NetName=NetC2_8_2 Pin=C2_8-2
+Added Pin To Net: NetName=NetC2_8_2 Pin=ESP32-25
+Added Pin To Net: NetName=NetC2_8_2 Pin=R2_8-1
+Added Pin To Net: NetName=NetC2_8_2 Pin=SW2_8-2
+Added Net: Name=NetC2_8_2
+Added Pin To Net: NetName=NetDIO1_2_2 Pin=DIO1_2-2
+Added Pin To Net: NetName=NetDIO1_2_2 Pin=R6_2-2
+Added Net: Name=NetDIO1_2_2
+Added Pin To Net: NetName=NetESP32_19 Pin=ESP32-19
+Added Pin To Net: NetName=NetESP32_19 Pin=R5_2-1
+Added Pin To Net: NetName=NetESP32_19 Pin=U2_2-4
+Added Net: Name=NetESP32_19
+Added Pin To Net: NetName=NetESP32_20 Pin=ESP32-20
+Added Pin To Net: NetName=NetESP32_20 Pin=R1_2-2
+Added Pin To Net: NetName=NetESP32_20 Pin=R4_2-1
+Added Net: Name=NetESP32_20
+Added Pin To Net: NetName=NetESP32_21 Pin=ESP32-21
+Added Pin To Net: NetName=NetESP32_21 Pin=R1_4-2
+Added Net: Name=NetESP32_21
+Added Pin To Net: NetName=NetESP32_26 Pin=ESP32-26
+Added Pin To Net: NetName=NetESP32_26 Pin=LED_ALERT-2
+Added Net: Name=NetESP32_26
+Added Pin To Net: NetName=NetLED1_2_1 Pin=LED1_2-1
+Added Pin To Net: NetName=NetLED1_2_1 Pin=R2_2-1
+Added Net: Name=NetLED1_2_1
+Added Pin To Net: NetName=NetLED2_2_1 Pin=LED2_2-1
+Added Pin To Net: NetName=NetLED2_2_1 Pin=R3_2-1
+Added Net: Name=NetLED2_2_1
+Added Pin To Net: NetName=NetLED_ALERT_1 Pin=LED_ALERT-1
+Added Pin To Net: NetName=NetLED_ALERT_1 Pin=R1_6-1
+Added Net: Name=NetLED_ALERT_1
+Added Pin To Net: NetName=NetQ1_4_3 Pin=Q1_4-3
+Added Pin To Net: NetName=NetQ1_4_3 Pin=R1_4-1
+Added Net: Name=NetQ1_4_3
+Added Pin To Net: NetName=NetR6_2_1 Pin=R6_2-1
+Added Pin To Net: NetName=NetR6_2_1 Pin=U2_2-1
+Added Net: Name=NetR6_2_1
+Added Pin To Net: NetName=SIM_RX Pin=ESP32-6
+Added Pin To Net: NetName=SIM_RX Pin=SIMR-2
+Added Net: Name=SIM_RX
+Added Pin To Net: NetName=SIM_TX Pin=ESP32-7
+Added Pin To Net: NetName=SIM_TX Pin=SIMR-1
+Added Net: Name=SIM_TX
+Added Class: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
